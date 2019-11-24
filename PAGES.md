@@ -9,7 +9,7 @@
 ### Использование смысловых блоков на страницах
 
 #### Главная страница (index.html) собирается из:
-[Скриншот](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/pages/index.png)
+[Скриншот](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/pages/index.png)
 
 - `payment` — блока платёжной формы,
 - `warning` — блока предупреждения,
@@ -23,7 +23,7 @@
 - отступы между столбцами во второй секции (между блоками `product`) — `half`.
 
 #### Страница продукта (product.html) собирается из:
-[Скриншот](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/pages/product.png)
+[Скриншот](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/pages/product.png)
 
 - `cover` — блока обложки товара,
 - `product` — блока товара.

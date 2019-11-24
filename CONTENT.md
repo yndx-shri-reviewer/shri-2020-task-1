@@ -7,7 +7,7 @@
 ## Блоки, которые нужно собрать
 
 ### `.payment` — блок платежной формы
-[Скриншот](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/screenshots/payment.png)
+[Скриншот](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/screenshots/payment.png)
 
 Из уровня дизайн-сиcтемы должны использоваться:
 
@@ -21,7 +21,7 @@
 
 
 ### `.warning` — блок предупреждения
-[Скриншот](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/screenshots/warning.png)
+[Скриншот](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/screenshots/warning.png)
  
 Из уровня дизайн-сиcтемы блок должен использовать:
 
@@ -38,9 +38,9 @@
 
 
 ### `.product` — блок карточки товара
-[Скриншот](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/screenshots/product.png)
+[Скриншот](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/screenshots/product.png)
 
-[Скриншот](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/screenshots/product2.png)(в инвёрсной теме)
+[Скриншот](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/screenshots/product2.png)(в инвёрсной теме)
 
 Из уровня дизайн-сиcтемы блок должен использовать:
 
@@ -57,9 +57,9 @@
 
 
 ### `.history` — блок истории операций
-[Скриншот](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/screenshots/history.png)
+[Скриншот](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/screenshots/history.png)
 
-[Скриншот](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/screenshots/history2.png)(в раскрытом виде)
+[Скриншот](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/screenshots/history2.png)(в раскрытом виде)
  
 Из уровня дизайн-сиcтемы блок должен использовать:
 
@@ -73,7 +73,7 @@
 
 
 ### `.cover` — блок обложки товара
-[Скриншот](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/screenshots/cover.png)
+[Скриншот](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/screenshots/cover.png)
 
 Из уровня дизайн-сиcтемы блок должен использовать:
 - стили блока-паттерна `.card`,
@@ -90,7 +90,7 @@
 
 
 ### `.event` — блок мероприятия
-[Скриншот](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/screenshots/event.png)
+[Скриншот](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/screenshots/event.png)
 
 Из уровня дизайн-сиcтемы блок должен использовать:
 
@@ -108,7 +108,7 @@
 
 
 ### `.header` — сквозной блок шапки
-[Скриншот](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/screenshots/header.png)
+[Скриншот](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/screenshots/header.png)
 
 Блок должен содержать собственные уникальные стили.
 
@@ -133,7 +133,7 @@
 
 ### `.footer` — сквозной блок подвала
 
-[Скриншот](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/screenshots/footer.png)
+[Скриншот](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/screenshots/footer.png)
 
 Из уровня дизайн-сиcтемы блок использует стили контентного блока `.text`
 
