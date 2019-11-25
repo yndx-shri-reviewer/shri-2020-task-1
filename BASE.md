@@ -327,7 +327,7 @@
 ### Блок `icon-plus`
 Самый маленький и самый популярный блок `pt-icon-plus` выравнивает любой графический элемент рядом с контентом.
 
-[Скриншот](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/screenshots/icon-plus.png).
+[Скриншот](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/screenshots/icon-plus.png).
 
 #### Модификаторы блока
 Модификаторы                      | Значение                         | Описание
@@ -419,7 +419,7 @@ xxl                                | `s` `m` `l`                               |
 
 
 
-Количество слов внутри каждой интерфейсной сущности можно взять из файла [text-mods.md](https://github.com/yndx-shri-reviewer/task-1/blob/master/text-mods.md)
+Количество слов внутри каждой интерфейсной сущности можно взять из файла [text-mods.md](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/text-mods.md)
 
 
 ### Блок `avatar`
@@ -498,11 +498,11 @@ xxl                                | `s` `m` `l`                               |
 
 Изображения с темой `project-default` имеют заглушку черного цвета. 
  
-[Заглушка](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/images/image-placeholder-primary.svg)
+[Заглушка](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/images/image-placeholder-primary.svg)
 
 Изображения с темами `project-inverse` и `project-brand` имеют заглушку белого цвета.
 
-[Заглушка](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/images/image-placeholder-inverse.svg)(инверсия).
+[Заглушка](https://github.com/yndx-shri-reviewer/shri-2020-task-1/blob/master/assets/images/image-placeholder-inverse.svg)(инверсия).
 
 ### Интерактивные блоки
 
