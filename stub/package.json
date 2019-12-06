@@ -1,0 +1,15 @@
+{
+  "name": "shri-2020-task-1-stub",
+  "version": "1.0.0",
+  "description": "Project stub for BEMJSON render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bem-xjst": "^8.9.6",
+    "express": "^4.17.1"
+  }
+}
